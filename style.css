@@ -8,20 +8,20 @@ body {
 }
 .title {
     text-align: center;
-    line-height: 60px;
+    padding-top: 32px;
 }
 .cat {
     box-sizing: border-box;
-    width: 400px;
+    width: 352px;
     margin: 0 auto;
     position: relative;
-    top: 100px;
+    top: 78px;
 }
 .head {
     box-sizing: border-box;
     position: relative;
-    width: 400px;
-    height: 340px;
+    width: 368px;
+    height: 338px;
     background: #F6F7F2;
     border: 2px solid #000;
     border-radius: 50% 50% 35% 35%;
@@ -31,7 +31,7 @@ body {
 .head-head {
     position: absolute;
     top: 0;
-    left: 110px;
+    left: 96px;
     width: 180px;
     height: 160px;
     background: #8D8D8D;
@@ -125,7 +125,7 @@ body {
     -o-transform: rotate(15deg);
     border-radius:  80% 4% 50% 0%;
     position: absolute;
-    right: -20px;
+    right: -36px;
     top: 0px;
     animation: rightear 2s infinite  linear;
 }
@@ -177,10 +177,10 @@ body {
 .eyes {
     position: relative;
     top: 174px;
-    width: 206px;
+    width: 176px;
     z-index: 5;
     left: 50%;
-    margin-left: -140px;
+    margin-left: -125px;
 }
 .left-eye {
     position: absolute;
@@ -334,7 +334,7 @@ body {
 }
 .huawen {
     height: 80px;
-    width: 380px;
+    width: 370px;
     position: absolute;
     top: 190px;
     z-index: 20;
@@ -351,7 +351,7 @@ body {
     -moz-transform: rotate(25deg);
     -webkit-transform: rotate(25deg);
     -o-transform: rotate(25deg);
-    margin-left: 14px;
+    margin-left: 22px;
 }
 .second-left{
     margin-top: 8px;
@@ -364,7 +364,7 @@ body {
     -moz-transform: rotate(25deg);
     -webkit-transform: rotate(25deg);
     -o-transform: rotate(25deg);
-    margin-left: 16px;
+    margin-left: 26px;
 }
 .third-left {
     margin-top: 8px; 
@@ -377,7 +377,7 @@ body {
     -moz-transform: rotate(25deg);
     -webkit-transform: rotate(25deg);
     -o-transform: rotate(25deg);
-    margin-left: 8px;
+    margin-left: 20px;
 }
 .fourth-left {
     margin-top: 4px;
@@ -390,7 +390,7 @@ body {
     -moz-transform: rotate(30deg);
     -webkit-transform: rotate(30deg);
     -o-transform: rotate(30deg);
-    margin-left: 34px;
+    margin-left: 46px;
 }
 
 .face-right {
