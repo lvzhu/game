@@ -20,7 +20,7 @@ body {
 .head {
     box-sizing: border-box;
     position: relative;
-    width: 368px;
+    width: 348px;
     height: 338px;
     background: #F6F7F2;
     border: 2px solid #000;
@@ -31,7 +31,7 @@ body {
 .head-head {
     position: absolute;
     top: 0;
-    left: 96px;
+    left: 84px;
     width: 180px;
     height: 160px;
     background: #8D8D8D;
@@ -125,7 +125,7 @@ body {
     -o-transform: rotate(15deg);
     border-radius:  80% 4% 50% 0%;
     position: absolute;
-    right: -36px;
+    right: -13px;
     top: 0px;
     animation: rightear 2s infinite  linear;
 }
@@ -180,7 +180,7 @@ body {
     width: 176px;
     z-index: 5;
     left: 50%;
-    margin-left: -125px;
+    margin-left: -128px;
 }
 .left-eye {
     position: absolute;
@@ -334,7 +334,7 @@ body {
 }
 .huawen {
     height: 80px;
-    width: 370px;
+    width: 365px;
     position: absolute;
     top: 190px;
     z-index: 20;
